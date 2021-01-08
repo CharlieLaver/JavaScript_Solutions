@@ -35,5 +35,5 @@ function isPangram(string){
 }
 
 function isCharacterALetter(char) {
-  return (/[a-zA-Z]/).test(char)
+  return (/[a-zA-Z]/).test(char);
 }
