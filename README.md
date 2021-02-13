@@ -1,2 +1,3 @@
 # JavaScript_Solutions
- JS coding solutions
+
+My JavaScript solutions to codewars katas  
