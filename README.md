@@ -1,3 +1,3 @@
-# JavaScript_Solutions
+# useful
 
-My JavaScript solutions to codewars katas  
+My repo for any code that may be useful in the future.
